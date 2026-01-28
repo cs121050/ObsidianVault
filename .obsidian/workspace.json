@@ -78,6 +78,20 @@
             }
           },
           {
+            "id": "0cf749c98d8cf0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geia sou katerina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "geia sou katerina"
+            }
+          },
+          {
             "id": "57c24eb4caa63059",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,15 +268,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "3cf40b7bd1280009",
+  "active": "0cf749c98d8cf0a1",
   "lastOpenFiles": [
+    "UTIL/GIT.md",
+    "geia sou katerina.md",
     "EPITHEORISI AI PROMPT.md",
     "epitheorisi 3-2-26.md",
     "UTIL/mousiki.md",
     "UTIL/UTIL.md",
     "JazzLibraryKTRoomJPCompose.md",
     "Netcompany take aways.md",
-    "UTIL/GIT.md",
     "HZzJSgty.jpg",
     "yvMyaFjH.jpg",
     "k3yM-uW9.jpg",
