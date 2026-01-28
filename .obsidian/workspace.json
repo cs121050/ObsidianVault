@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "82e8079b08918729",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1eaced4c8f60505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "134baeb976b0c90e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Netcompany take aways.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Netcompany take aways"
+            }
+          },
+          {
+            "id": "af154496e8c3fd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UTIL/mousiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mousiki"
+            }
+          },
+          {
+            "id": "522f9d3718f49ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UTIL/UTIL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UTIL"
+            }
+          },
+          {
+            "id": "e91a8c3314232448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JazzLibraryKTRoomJPCompose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JazzLibraryKTRoomJPCompose"
+            }
+          },
+          {
+            "id": "efbfff6d608d847d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UTIL/GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
+            }
+          },
+          {
+            "id": "57c24eb4caa63059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "epitheorisi 3-2-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "epitheorisi 3-2-26"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca11b5818125ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6492c31e5678e13e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf40b7bd1280009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1ca3bd78c21eb52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff41a48bc2dc9104",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ae8be8916e2458b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea3b2471dcd2178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66eca423e213d3d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Netcompany gaines.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Netcompany gaines"
+            }
+          },
+          {
+            "id": "e4550ce2e57fec04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Netcompany gaines.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Netcompany gaines"
+            }
+          },
+          {
+            "id": "e28c083a255eefcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "827a0a111a68e4d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95f1105b186be9c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Netcompany gaines.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Netcompany gaines"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3cf40b7bd1280009",
+  "lastOpenFiles": [
+    "EPITHEORISI AI PROMPT.md",
+    "epitheorisi 3-2-26.md",
+    "UTIL/mousiki.md",
+    "UTIL/UTIL.md",
+    "JazzLibraryKTRoomJPCompose.md",
+    "Netcompany take aways.md",
+    "UTIL/GIT.md",
+    "HZzJSgty.jpg",
+    "yvMyaFjH.jpg",
+    "k3yM-uW9.jpg",
+    "Ib3Ome_C.jpg",
+    "Pasted image 20260127140448.png",
+    "vbdPO1nN.jpg",
+    "sSA-amOd.jpg",
+    "z8GxFmKh.jpg",
+    "petEjGOT.jpg",
+    "g2URW-By.jpg",
+    "UTIL/TODO.md",
+    "O0300.md",
+    "UTIL/SQL.md",
+    "My Note.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "UTIL"
+  ]
+}
